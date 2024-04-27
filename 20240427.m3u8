@@ -34,3 +34,7 @@ http://113.67.164.234:8888/udp/239.77.0.112:5146
 http://113.67.164.234:8888/udp/239.77.0.194:5146
 #EXTINF:-1,广州
 http://113.67.164.234:8888/udp/239.253.43.71:5146
+#EXTINF：-1,无线娱乐
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1,tvb
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
