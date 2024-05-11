@@ -38,3 +38,27 @@ http://113.67.164.234:8888/udp/239.253.43.71:5146
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1,tvb
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:-1,凤凰资讯
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+#EXTINF:-1,TVB 星河台
+https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1,TVB功夫台
+http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1,ESPN
+http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:-1,湖南卫视
+http://64.140.167.170:8080/live/ydws5/hls.m3u8
+#EXTINF:-1,KBS
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1,NOW TV 
+https://z88.ubtvfans.com/live/rx3/1246/9368c3093c58aa8b9de729b09b3a03e3/index.m3u8
+#EXTINF:-1,广东卫视 
+http://27.11.55.61:8007/udp/225.0.4.84:7980
+#EXTINF:-1,纪实
+http://27.11.55.61:8007/udp/225.0.4.99:7980
+#EXTINF:-1,CCTV5+
+http://119.165.181.134:8888/udp/239.253.254.80:8000
+#EXTINF:-1,CCTV5
+http://119.165.181.134:8888/udp/239.253.254.192:8000
+#EXTINF:-1,CCTV9
+http://119.165.181.134:8888/udp/239.253.254.79:8000
