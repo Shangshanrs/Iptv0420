@@ -100,3 +100,5 @@ http://tenfarr.com:4000/udp/239.77.1.237:5146
 http://tenfarr.com:4000/udp/239.253.43.66:5146
 #EXTINF:-1,广州新闻
 http://tenfarr.com:4000/udp/239.253.43.72:5146
+#EXTINF:-1,CCTV4K
+http://14.19.179.158:4022/udp/239.77.0.194:5146
