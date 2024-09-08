@@ -2,79 +2,191 @@
 #EXTM3U8
 #EXTINF:-1,无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1,CCTV-1高清
-http://1.29.26.131:5555/udp/239.125.2.66:4120
-#EXTINF:-1,CCTV-2高清
-http://1.29.26.131:5555/udp/239.125.2.65:4120
-#EXTINF:-1,CCTV-3高清
-http://1.29.26.131:5555/udp/239.125.2.52:4120
-#EXTINF:-1,CCTV-4高清
-http://1.29.26.131:5555/udp/239.125.2.64:4120
-#EXTINF:-1,CCTV-5高清
-http://1.29.26.131:5555/udp/239.125.2.54:4120
-#EXTINF:-1,CCTV-5+高清
-http://1.29.26.131:5555/udp/239.125.1.57:5000
-#EXTINF:-1,CCTV-6高清
-http://1.29.26.131:5555/udp/239.125.2.56:4120
-#EXTINF:-1,CCTV-7高清
-http://1.29.26.131:5555/udp/239.125.2.63:4120
-#EXTINF:-1,CCTV-8高清
-http://1.29.26.131:5555/udp/239.125.2.58:4120
-#EXTINF:-1,CCTV-9高清
-http://1.29.26.131:5555/udp/239.125.2.62:4120
-#EXTINF:-1,CCTV-10高清
-http://1.29.26.131:5555/udp/239.125.2.61:4120
-#EXTINF:-1,CCTV-11高清
-http://1.29.26.131:5555/udp/239.125.1.101:4120
-#EXTINF:-1,CCTV-12高清
-http://1.29.26.131:5555/udp/239.125.2.60:4120
-#EXTINF:-1,CCTV-13高清
-http://1.29.26.131:5555/udp/239.125.1.53:4120
-#EXTINF:-1,CCTV-少儿高清
-http://1.29.26.131:5555/udp/239.125.2.59:4120
-#EXTINF:-1,CCTV-15高清
-http://1.29.26.131:5555/udp/239.125.1.102:4120
-#EXTINF:-1,广东卫视
-http://1.29.26.131:5555/udp/239.125.2.71:4120
-#EXTINF:-1,东方卫视
-http://1.29.26.131:5555/udp/239.125.2.82:4120
-#EXTINF:-1,辽宁卫视
-http://1.29.26.131:5555/udp/239.125.2.72:4120
-#EXTINF:-1,山东卫视
-http://1.29.26.131:5555/udp/239.125.2.75:4120
-#EXTINF:-1,广西卫视
-http://1.29.26.131:5555/udp/239.125.1.167:4130
-#EXTINF:-1,北京卫视
-http://1.29.26.131:5555/udp/239.125.2.73:4120
-#EXTINF:-1,东南卫视
-http://1.29.26.131:5555/udp/239.125.2.77:4120
-#EXTINF:-1,湖南卫视高清
-http://1.29.26.131:5555/udp/239.125.2.67:4120
-#EXTINF:-1,江苏卫视高清
-http://1.29.26.131:5555/udp/239.125.2.101:4129
-#EXTINF:-1,CCTV16
-http://1.29.26.131:5555/udp/239.125.2.218:4120
-#EXTINF:-1,深圳卫视
-http://1.29.26.131:5555/udp/239.125.2.76:4120
-#EXTINF:-1,CCTV13
-http://113.206.191.119:8002/udp/225.0.4.219:7980
-#EXTINF:-1,CCTV13(1)
-http://183.129.92.127:8888/udp/233.50.201.246:5140
-#EXTINF:-1,CCTV10
-http://183.129.92.127:8888/udp/233.50.200.22:5140
-#EXTINF:-1,凤凰卫视
-http://183.129.92.127:8888/udp/233.50.200.42:5140
-#EXTINF:-1,凤凰卫视2
-http://183.129.92.127:8888/udp/233.50.200.191:5140
-#EXTINF:-1,凤凰资讯
-http://183.129.92.127:8888/udp/233.50.200.192:5140
-#EXTINF:-1,欢笑剧场
-http://183.129.92.127:8888/udp/233.50.200.229:5140
-#EXTINF:-1,金色学堂
-http://183.129.92.127:8888/udp/233.50.200.122:5140
-#EXTINF:-1,第一财经
-http://183.129.92.127:8888/udp/233.50.200.125:5140
-#EXTINF:-1,凤凰HD
-http://183.129.92.127:8888/udp/233.50.200.42:5140
-#EXTINF:-1,CCTV-16 4K
-http://183.129.92.127:8888/udp/233.50.201.63:5140
+#EXTINF:-1, 凤凰香港
+http://www.lebaobei.top:6868/udp/239.255.30.123:8231
+#EXTINF:-1, CCTV1
+http://www.lebaobei.top:6868/udp/239.255.30.101:8231
+#EXTINF:-1, CCTV2
+http://www.lebaobei.top:6868/udp/239.255.30.179:8231
+#EXTINF:-1, CCTV3
+http://www.lebaobei.top:6868/udp/239.255.29.12:8231
+#EXTINF:-1, CCTV4
+http://www.lebaobei.top:6868/udp/239.255.30.83:8231
+#EXTINF:-1, CCTV5
+http://www.lebaobei.top:6868/udp/239.255.29.13:8231
+#EXTINF:-1, CCTV5+
+http://www.lebaobei.top:6868/udp/239.255.30.184:8231
+#EXTINF:-1, CCTV6
+http://www.lebaobei.top:6868/udp/239.255.29.14:8231
+#EXTINF:-1, CCTV7
+http://www.lebaobei.top:6868/udp/239.255.30.178:8231
+#EXTINF:-1, CCTV8
+http://www.lebaobei.top:6868/udp/239.255.29.15:8231
+#EXTINF:-1, CCTV9
+http://www.lebaobei.top:6868/udp/239.255.30.180:8231
+#EXTINF:-1, CCTV10
+http://www.lebaobei.top:6868/udp/239.255.30.181:8231
+#EXTINF:-1, CCTV11
+http://www.lebaobei.top:6868/udp/239.255.30.62:8231
+#EXTINF:-1, CCTV12
+http://www.lebaobei.top:6868/udp/239.255.30.182:8231
+#EXTINF:-1, CCTV13
+http://www.lebaobei.top:6868/udp/239.255.29.28:8231
+#EXTINF:-1, CCTV14
+http://www.lebaobei.top:6868/udp/239.255.30.183:8231
+#EXTINF:-1, CCTV15
+http://www.lebaobei.top:6868/udp/239.255.30.68:8231
+#EXTINF:-1, CCTV16
+http://www.lebaobei.top:6868/udp/239.255.30.88:8231
+#EXTINF:-1, CCTV17
+http://www.lebaobei.top:6868/udp/239.255.30.96:8231
+#EXTINF:-1, 湖南
+http://www.lebaobei.top:6868/udp/239.255.30.136:8231
+#EXTINF:-1, 东方
+http://www.lebaobei.top:6868/udp/239.255.30.130:8231
+#EXTINF:-1, 江苏
+http://www.lebaobei.top:6868/udp/239.255.30.131:8231
+#EXTINF:-1, 浙江
+http://www.lebaobei.top:6868/udp/239.255.30.132:8231
+#EXTINF:-1, 北京
+http://www.lebaobei.top:6868/udp/239.255.30.133:8231
+#EXTINF:-1, 广东
+http://www.lebaobei.top:6868/udp/239.255.30.134:8231
+#EXTINF:-1, 深圳
+http://www.lebaobei.top:6868/udp/239.255.30.135:8231
+#EXTINF:-1, 黑龙江
+http://www.lebaobei.top:6868/udp/239.255.30.137:8231
+#EXTINF:-1, 湖北 
+http://www.lebaobei.top:6868/udp/239.255.30.138:8231
+#EXTINF:-1, 山东
+http://www.lebaobei.top:6868/udp/239.255.30.139:8231
+#EXTINF:-1, 天津
+http://www.lebaobei.top:6868/udp/239.255.30.67:8231
+#EXTINF:-1, 辽宁
+http://www.lebaobei.top:6868/udp/239.255.30.69:8231
+#EXTINF:-1, 四川
+http://www.lebaobei.top:6868/udp/239.255.30.91:8231
+#EXTINF:-1, 重庆
+http://www.lebaobei.top:6868/udp/239.255.30.89:8231
+#EXTINF:-1, 凤凰中文
+http://www.lebaobei.top:6868/udp/239.255.30.50:8231
+#EXTINF:-1, 凤凰资讯
+http://www.lebaobei.top:6868/udp/239.255.30.70:8231
+#EXTINF:-1, 体育
+http://www.lebaobei.top:6868/udp/239.255.29.31:8231
+#EXTINF:-1, 五星体育
+http://www.lebaobei.top:6868/udp/239.255.29.45:8231
+#EXTINF:-1, 上视纪实
+http://www.lebaobei.top:6868/udp/239.255.30.176:8231
+#EXTINF:-1, 欢笑剧场
+http://www.lebaobei.top:6868/udp/239.255.29.7:8231
+#EXTINF:-1, BEST TV
+http://www.lebaobei.top:6868/udp/239.255.30.196:8231
+#EXTINF:-1, 乐悠
+http://www.lebaobei.top:6868/udp/239.255.29.17:8231
+#EXTINF:-1, 足球
+http://www.lebaobei.top:6868/udp/239.255.29.25:8231
+#EXTINF:-1, 羽毛球精品
+http://www.lebaobei.top:6868/udp/239.255.29.31:8231
+#EXTINF:-1, IPTV5+
+http://www.lebaobei.top:6868/udp/239.255.30.115:8231
+#EXTINF:-1, 金鹰纪实
+http://www.lebaobei.top:6868/udp/239.255.29.39:8231
+#EXTINF:-1, 金色学堂
+http://www.lebaobei.top:6868/udp/239.255.29.23:8231
+#EXTINF:-1, CCTV1
+http://121.33.239.242:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1, CCTV2
+http://121.33.239.242:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1, CCTV3
+http://121.33.239.242:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1, CCTV4
+http://121.33.239.242:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1, CCTV5
+http://121.33.239.242:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1, CCTV6
+http://121.33.239.242:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1, CCTV7
+http://121.33.239.242:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1, CCTV8
+http://121.33.239.242:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1, CCTV9
+http://121.33.239.242:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1, CCTV10
+http://121.33.239.242:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1, CCTV13
+http://121.33.239.242:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1, 广东民生
+http://121.33.239.242:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1, 北京卫视
+http://121.33.239.242:9901/tsfile/live/38725_1.m3u8
+#EXTINF:-1, 深圳
+http://121.33.239.242:9901/tsfile/live/0126_1.m3u8
+#EXTINF:-1, 广东珠江
+http://121.33.239.242:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1, 广东新闻
+http://121.33.239.242:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1, Arirang TV
+http://125.227.22.96:4022/udp/224.1.4.184:11111
+#EXTINF:-1, BBC Earth
+http://125.227.22.96:4022/udp/230.1.2.172:11111
+#EXTINF:-1, BBC World News
+http://125.227.22.96:4022/udp/224.1.4.52:11111
+#EXTINF:-1, CNN
+http://125.227.22.96:4022/udp/224.1.4.235:11111
+#EXTINF:-1, CNBC
+http://125.227.22.96:4022/udp/224.1.4.118:11111
+#EXTINF:-1, LOVE NATURE
+http://125.227.22.96:4022/udp/224.1.4.182:11111
+#EXTINF:-1, LUXE TV Channel
+http://125.227.22.96:4022/udp/230.1.2.16:11111
+#EXTINF:-1, NHK WORLD
+http://125.227.22.96:4022/udp/224.1.4.137:11111
+#EXTINF:-1, TVBS新闻
+http://125.227.22.96:4022/udp/224.1.4.13:11111
+#EXTINF:-1, TVBS
+http://125.227.22.96:4022/udp/224.1.4.24:11111
+#EXTINF:-1, 三立财经新闻
+http://125.227.22.96:4022/udp/230.1.2.191:11111
+#EXTINF:-1, 三立综合
+http://125.227.22.96:4022/udp/230.1.2.192:11111
+#EXTINF:-1, 中视
+http://125.227.22.96:4022/udp/224.1.4.10:11111
+#EXTINF:-1, 中视新闻
+http://125.227.22.96:4022/udp/224.1.4.252:11111
+#EXTINF:-1, 公视
+http://125.227.22.96:4022/udp/224.1.4.53:11111
+#EXTINF:-1, 历史
+http://125.227.22.96:4022/udp/230.1.2.216:11111
+#EXTINF:-1, 世界羽毛球
+http://125.227.22.96:4022/udp/224.1.4.117:11111
+#EXTINF:-1, 半岛
+http://125.227.22.96:4022/udp/230.1.2.128:11111
+#EXTINF:-1, 台视
+http://125.227.22.96:4022/udp/224.1.4.8:11111
+#EXTINF:-1, 台视财经
+http://125.227.22.96:4022/udp/224.1.4.248:11111
+#EXTINF:-1, 台视新闻
+http://125.227.22.96:4022/udp/224.1.4.215:11111
+#EXTINF:-1, 民视
+http://125.227.22.96:4022/udp/224.1.4.6:11111
+#EXTINF:-1, 民视新闻
+http://125.227.22.96:4022/udp/224.1.4.97:11111
+#EXTINF:-1, 华视
+http://125.227.22.96:4022/udp/224.1.4.12:11111
+#EXTINF:-1, 华视
+http://125.227.22.96:4022/udp/230.1.2.229:11111
+#EXTINF:-1, 华视新闻
+http://125.227.22.96:4022/udp/224.1.4.55:11111
+#EXTINF:-1, 华视教育
+http://125.227.22.96:4022/udp/224.1.4.96:11111
+#EXTINF:-1, 非凡
+http://125.227.22.96:4022/udp/224.1.4.158:11111
+#EXTINF:-1, CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1, CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1, ORA
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1, CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
