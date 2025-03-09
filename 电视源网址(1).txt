@@ -1,0 +1,7 @@
+https://m3u.ibert.me
+https://epg.pw/test_channel_page.html
+
+
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+或
+https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
